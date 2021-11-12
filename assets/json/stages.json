@@ -1,0 +1,14 @@
+[
+  {
+    "id": "intro",
+    "comp": "AppTestIntro"
+  },
+  {
+    "id": "loop",
+    "comp": "AppTestLoop"
+  },
+  {
+    "id": "outro",
+    "comp": "AppTestOutro"
+  }
+]

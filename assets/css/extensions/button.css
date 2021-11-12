@@ -1,0 +1,16 @@
+.btn {
+  @apply rounded;
+  @apply shadow;
+  @apply px-4 py-1;
+  @apply bg-gray-800;
+  @apply text-gray-200;
+  @apply cursor-pointer;
+  @apply transform;
+  @apply transition;
+  @apply text-lg;
+}
+
+.btn:hover {
+  @apply shadow-lg;
+  @apply -translate-y-0.5;
+}

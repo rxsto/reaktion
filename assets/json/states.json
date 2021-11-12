@@ -1,0 +1,21 @@
+[
+  {
+    "id": "intro",
+    "content": ["Liebe Proband:innen,", "vielen Dank, dass Sie sich bereit erklärt haben an unserer Studie teilzunehmen. Wir möchten heute Ihre Fähigkeit testen auf einen Stimulus zu reagieren, diesen zu verarbeiten und darauf zu antworten. Dabei ist unser Ziel die Anzahl der diffusen Axonenbeschädigungen in Ihrer Altersgruppe (17-26) zu studieren.", "Wir werden im Folgenden in drei unterschiedlichen Tests die von Ihnen benötigte Zeit für die Bearbeitung eines jeden Tasks messen.", "Bitte lesen Sie aufmerksam die Instruktionen durch.", "Viel Spaß!"],
+    "comp": "AppIntro"
+  },
+  {
+    "id": "test",
+    "content": [
+
+    ],
+    "comp": "AppTest"
+  },
+  {
+    "id": "outro",
+    "content": [
+
+    ],
+    "comp": "AppOutro"
+  }
+]
