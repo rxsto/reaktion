@@ -1,26 +1,242 @@
 [
   {
-    "id": "Burostuhl_2.png",
-    "fits": false
+      "id": "Autoschlüssel_1.png",
+      "fits": true
   },
   {
-    "id": "Champagner_1.png",
-    "fits": true
+      "id": "Bauer_1.png",
+      "fits": true
   },
   {
-    "id": "Eiffelturm_2.png",
-    "fits": false
+      "id": "Billardkugel_1.png",
+      "fits": true
   },
   {
-    "id": "Hut_1.png",
-    "fits": true
+      "id": "BlaueTrauben_1.png",
+      "fits": true
   },
   {
-    "id": "Mikrowelle_2.png",
-    "fits": false
+      "id": "Büroklammer_1.png",
+      "fits": true
   },
   {
-    "id": "Starbucks_1.png",
-    "fits": true
+      "id": "Champagner_1.png",
+      "fits": true
+  },
+  {
+      "id": "Chilli_1.png",
+      "fits": true
+  },
+  {
+      "id": "Fernbedienung_1.png",
+      "fits": true
+  },
+  {
+      "id": "Golfball_1.png",
+      "fits": true
+  },
+  {
+      "id": "Hut_1.png",
+      "fits": true
+  },
+  {
+      "id": "Iphone_1.png",
+      "fits": true
+  },
+  {
+      "id": "Jordans_1.png",
+      "fits": true
+  },
+  {
+      "id": "Kopfhörer_1.png",
+      "fits": true
+  },
+  {
+      "id": "Löffel_1.png",
+      "fits": true
+  },
+  {
+      "id": "Mango_1.png",
+      "fits": true
+  },
+  {
+      "id": "Maus_1.png",
+      "fits": true
+  },
+  {
+      "id": "Mücke_1.png",
+      "fits": true
+  },
+  {
+      "id": "Plastikflasche_1.png",
+      "fits": true
+  },
+  {
+      "id": "Rose_1.png",
+      "fits": true
+  },
+  {
+      "id": "Sandwich_1.png",
+      "fits": true
+  },
+  {
+      "id": "Schere_1.png",
+      "fits": true
+  },
+  {
+      "id": "Schokokuchen_1.png",
+      "fits": true
+  },
+  {
+      "id": "Sonnenbrille_1.png",
+      "fits": true
+  },
+  {
+      "id": "Spritze_1.png",
+      "fits": true
+  },
+  {
+      "id": "Starbucks_1.png",
+      "fits": true
+  },
+  {
+      "id": "Stift_1.png",
+      "fits": true
+  },
+  {
+      "id": "Tastatur_1.png",
+      "fits": true
+  },
+  {
+      "id": "Tischtennis_1.png",
+      "fits": true
+  },
+  {
+      "id": "Weinöffner_1.png",
+      "fits": true
+  },
+  {
+      "id": "Zauberwürfel_1.png",
+      "fits": true
+  },
+  {
+      "id": "Badewanne_2.png",
+      "fits": false
+  },
+  {
+      "id": "Basketball_2.png",
+      "fits": false
+  },
+  {
+      "id": "Baum_2.png",
+      "fits": false
+  },
+  {
+      "id": "Boot_2.png",
+      "fits": false
+  },
+  {
+      "id": "Bürostuhl_2.png",
+      "fits": false
+  },
+  {
+      "id": "Eiffeltower_2.png",
+      "fits": false
+  },
+  {
+      "id": "Einsmaschine_2.png",
+      "fits": false
+  },
+  {
+      "id": "Fahrrad_2.png",
+      "fits": false
+  },
+  {
+      "id": "GamingStuhl_2.png",
+      "fits": false
+  },
+  {
+      "id": "Gitarre_2.png",
+      "fits": false
+  },
+  {
+      "id": "Hund_2.png",
+      "fits": false
+  },
+  {
+      "id": "Klavier_2.png",
+      "fits": false
+  },
+  {
+      "id": "Motorblock_2.png",
+      "fits": false
+  },
+  {
+      "id": "PC_2.png",
+      "fits": false
+  },
+  {
+      "id": "Pferd_2.png",
+      "fits": false
+  },
+  {
+      "id": "Rakete_2.png",
+      "fits": false
+  },
+  {
+      "id": "Schatztruhe_2.png",
+      "fits": false
+  },
+  {
+      "id": "Schreibmaschine_2.png",
+      "fits": false
+  },
+  {
+      "id": "Schwert_2.png",
+      "fits": false
+  },
+  {
+      "id": "Snowboard_2.png",
+      "fits": false
+  },
+  {
+      "id": "Sofa_2.png",
+      "fits": false
+  },
+  {
+      "id": "Surfboard_2.png",
+      "fits": false
+  },
+  {
+      "id": "Tesla_2.png",
+      "fits": false
+  },
+  {
+      "id": "Tisch_2.png",
+      "fits": false
+  },
+  {
+      "id": "Toilette.png",
+      "fits": false
+  },
+  {
+      "id": "Trampolin_2.png",
+      "fits": false
+  },
+  {
+      "id": "Trompete_2.png",
+      "fits": false
+  },
+  {
+      "id": "Vespa_2.png",
+      "fits": false
+  },
+  {
+      "id": "Waschmaschine_2.png",
+      "fits": false
+  },
+  {
+      "id": "Welt_2.png",
+      "fits": false
   }
 ]
