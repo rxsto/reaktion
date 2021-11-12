@@ -80,8 +80,8 @@ export default {
       const fits = this.shuffle(usableEntities.filter(ue => ue.fits))
       const fitsNot = this.shuffle(usableEntities.filter(ue => !ue.fits))
 
-      const newFits = fits.slice(0, 1)
-      const newFitsNot = fitsNot.slice(0, 1)
+      const newFits = fits.slice(0, 10)
+      const newFitsNot = fitsNot.slice(0, 10)
 
       this.setUsed(this.used.concat(newFits, newFitsNot))
       this.setEntities(this.shuffle(newFits.concat(newFitsNot)))
