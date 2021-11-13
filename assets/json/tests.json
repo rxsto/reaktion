@@ -1,14 +1,26 @@
 [
   {
     "id": "normal",
-    "description": "normal test"
+    "content": [
+      "Ihre Aufgabe wird es nun sein abzuschätzen, ob die auf dem Bildschirm gezeigten Objekte in einen handelsüblichen Schuhkarton passen.",
+      "Sie können diese Frage mit der Leer- und Eingabetaste beantworten.",
+      "Leeertaste = Objekt passt",
+      "Entertaste = Objekt passt nicht",
+      "Versuchen Sie bitte die Fragen so zügig und genau wie möglich zu beantworten..."
+    ]
   },
   {
     "id": "easy",
-    "description": "easy test"
+    "content": [
+      "Den folgenden Test haben 76,9% der Probanden am schnellsten performt. Aus bisherigen Studien ergab sich, dass hierbei eine gesunde Reaktionszeit im Durchschnitt 420 Milisekunden schneller sein müsste als bei den anderen Tests.",
+      "Bitte konzentrieren Sie sich weiterhin und beantworten die nächsten 20 Bilder so genau und vor allem zügig wie möglich..."
+    ]
   },
   {
     "id": "hard",
-    "description": "hard test"
+    "content": [
+      "Ab hier werden die Aufgaben schwerer. 83,3% der Probanden aus bisherigen Studien benötigten durchschnittlich 609 Millisekunden mehr für den Zeitraum, der zwischen der Wahrnehmung des Objektes und der Antwort auf dieses vergeht.",
+      "Bitte konzentrieren Sie sich weiterhin und beantworten die nächsten 20 Bilder so zügig und vor allem genau wie möglich..."
+    ]
   }
 ]

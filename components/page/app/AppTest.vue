@@ -37,7 +37,8 @@ export default {
     testData () {
       return {
         test: this.test,
-        entities: this.entities
+        entities: this.entities,
+        round: this.fulfilled.length
       }
     }
   },
