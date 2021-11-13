@@ -6,15 +6,13 @@
   },
   {
     "id": "test",
-    "content": [
-
-    ],
     "comp": "AppTest"
   },
   {
     "id": "outro",
     "content": [
-
+      "Vielen Dank für Ihre heutige Teilnahme an diesem Experiment!",
+      "Für Rückfragen stehen Ihnen unsere Versuchsleiter stets zur Verfügung."
     ],
     "comp": "AppOutro"
   }

@@ -1,12 +1,14 @@
 <template>
   <div class="h-full flex flex-col items-center justify-center">
-    <div class="flex flex-col max-w-screen-md">
-      <h1>
-        {{ self.description }}
-      </h1>
-      <a class="btn" @click="download">
-        Download
-      </a>
+    <div class="flex flex-col max-w-screen-md gap-4">
+      <p v-for="(line, index) in self.content" :key="`line-${index}`" class="text-xl">
+        {{ line }}
+      </p>
+      <div class="flex">
+        <a class="btn" @click="download">
+          Download
+        </a>
+      </div>
     </div>
   </div>
 </template>
