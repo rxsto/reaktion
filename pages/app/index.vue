@@ -15,6 +15,7 @@
 <script>
 import states from '~/assets/json/states.json'
 import objects from '~/assets/json/objects.json'
+import trainingObjects from '~/assets/json/training.json'
 
 export default {
   data () {
@@ -35,6 +36,9 @@ export default {
     this.setState(this.$storage.getLocalStorage('state') || states[0])
     for (const object of objects) {
       this.preload(`/img/objects/${object.id}`)
+    }
+    for (const object of trainingObjects) {
+      this.preload(`/img/training/${object.id}`)
     }
     this.mounted = true
   },

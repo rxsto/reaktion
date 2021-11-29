@@ -4,7 +4,7 @@
       <p v-for="(line, index) in self.content" :key="`line-${index}`" class="text-xl">
         {{ line }}
       </p>
-      <div class="flex">
+      <div class="flex justify-center">
         <a class="btn" @click="download">
           Download
         </a>

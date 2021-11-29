@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Cap_1.png",
+    "fits": true
+  },
+  {
+    "id": "Gleiter_2.png",
+    "fits": false
+  },
+  {
+    "id": "Schwimmbrille_1.png",
+    "fits": true
+  },
+  {
+    "id": "Bobbycar_2.png",
+    "fits": false
+  },
+  {
+    "id": "Teller_1.png",
+    "fits": true
+  },
+  {
+    "id": "Kanu_2.png",
+    "fits": false
+  },
+  {
+    "id": "Fussball_2.png",
+    "fits": false
+  },
+  {
+    "id": "Maske_1.png",
+    "fits": true
+  },
+  {
+    "id": "Videokamera_1.png",
+    "fits": true
+  },
+  {
+    "id": "Schaufel_2.png",
+    "fits": false
+  }
+]
