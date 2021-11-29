@@ -1,5 +1,15 @@
 [
   {
+    "id": "training",
+    "content": [
+      "line 1 asdfasdfasdfasdfasdfasdf asdfasdfasdfasdfasdfasdf asdfasdfasdfasdfasdfasdf asdf asdf",
+      "line 2",
+      "line 3",
+      "line 4 etc."
+    ],
+    "training": true
+  },
+  {
     "id": "normal",
     "content": [
       "Ihre Aufgabe wird es nun sein abzuschätzen, ob die auf dem Bildschirm gezeigten Objekte in einen handelsüblichen Schuhkarton passen.",

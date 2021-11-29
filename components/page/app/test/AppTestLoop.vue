@@ -3,18 +3,18 @@
     <h1 class="text-3xl">
       Passt dieses Objekt in einen Schuhkarton?
     </h1>
-    <img style="height: 320px" class="w-auto" :src="`/img/objects/${current.id}`">
+    <img style="height: 320px" class="w-auto" :src="`/img/${test.training ? 'training' : 'objects'}/${current.id}`">
     <div class="flex items-end gap-4">
       <div class="flex flex-col items-center">
-        <spacebar style="height: 48px" />
+        <left style="height: 96px" />
         <p>
-          Passt
+          Passt nicht
         </p>
       </div>
       <div class="flex flex-col items-center">
-        <enter style="height: 96px" />
+        <right style="height: 96px" />
         <p>
-          Passt nicht
+          Passt
         </p>
       </div>
     </div>
@@ -22,6 +22,8 @@
 </template>
 
 <script>
+import trainingObjects from '~/assets/json/training.json'
+
 export default {
   props: {
     test: {
@@ -43,7 +45,7 @@ export default {
   },
   computed: {
     current () {
-      return this.entities[this.index]
+      return this.test.training ? trainingObjects[this.index] : this.entities[this.index]
     }
   },
   mounted () {
@@ -81,7 +83,7 @@ export default {
 
       this.addContext(context)
 
-      if (this.index < this.entities.length - 1) {
+      if (this.index < (this.test.training ? trainingObjects.length - 1 : this.entities.length - 1)) {
         this.increaseIndex()
       } else {
         this.$emit('next')
@@ -113,9 +115,9 @@ export default {
     },
     handleKeyDown (e) {
       e.preventDefault()
-      if (e.key === 'Enter') {
+      if (e.key === 'ArrowLeft') {
         this.fits(false)
-      } else if (e.key === ' ') {
+      } else if (e.key === 'ArrowRight') {
         this.fits(true)
       } else {
         // NOTHING

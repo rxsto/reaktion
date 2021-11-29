@@ -52,7 +52,7 @@ export default {
   },
   methods: {
     start () {
-      if (this.entities.length === 0) {
+      if (this.entities.length === 0 && !this.test.training) {
         this.aggregateEntities()
       }
       this.setStage(stages[1])
@@ -64,10 +64,17 @@ export default {
       this.$emit('finish')
     },
     proceed () {
+      const wasTraining = this.test.training
       this.addFulfilled(this.test)
       this.resetIndex()
-      const remaining = tests.filter(t => !this.fulfilled.find(f => f.id === t.id))
-      const next = remaining[Math.random() * remaining.length | 0]
+      let remaining
+      let next
+      if (wasTraining) {
+        next = tests[1]
+      } else {
+        remaining = tests.filter(t => !this.fulfilled.find(f => f.id === t.id))
+        next = remaining[Math.random() * remaining.length | 0]
+      }
       if (!next) {
         this.finish()
       } else {
