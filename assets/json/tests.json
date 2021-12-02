@@ -2,35 +2,34 @@
   {
     "id": "training",
     "content": [
-      "line 1 asdfasdfasdfasdfasdfasdf asdfasdfasdfasdfasdfasdf asdfasdfasdfasdfasdfasdf asdf asdf",
-      "line 2",
-      "line 3",
-      "line 4 etc."
+      "Ihre Aufgabe wird es nun sein abzuschätzen, ob die auf dem Bildschirm gezeigten Objekte in einen handelsüblichen Schuhkarton passen.",
+      "Sie können diese Frage mit den unterschiedlichen Pfeiltasten beantworten.",
+      
+      "Pfeil Rechts = Objekt passt",
+      "Pfeil Links = Objekt passt nicht",
+      "Versuchen Sie bitte die Fragen so schnell und genau wie möglich zu beantworten..."
     ],
     "training": true
   },
   {
     "id": "normal",
     "content": [
-      "Ihre Aufgabe wird es nun sein abzuschätzen, ob die auf dem Bildschirm gezeigten Objekte in einen handelsüblichen Schuhkarton passen.",
-      "Sie können diese Frage mit der Leer- und Eingabetaste beantworten.",
-      "Leeertaste = Objekt passt",
-      "Entertaste = Objekt passt nicht",
-      "Versuchen Sie bitte die Fragen so zügig und genau wie möglich zu beantworten..."
+      "Ab hier werden wir Ihre Zeit messen."
     ]
   },
   {
     "id": "easy",
     "content": [
-      "Den folgenden Test haben 76,9% der Probanden am schnellsten performt. Aus bisherigen Studien ergab sich, dass hierbei eine gesunde Reaktionszeit im Durchschnitt 420 Milisekunden schneller sein müsste als bei den anderen Tests.",
-      "Bitte konzentrieren Sie sich weiterhin und beantworten die nächsten 20 Bilder so genau und vor allem zügig wie möglich..."
+       "Den folgenden Test haben 73,9% der Probanden am schnellsten performt.",
+       "Aus bisherigen Studien ergab sich, dass hierbei eine gesunde Reaktionszeit im Durchschnitt 0,45 Sekunden schneller sein müsste als bei den anderen Tests. Also bitte konzentrieren Sie sich weiterhin und beantworten die nächsten 20 Bilder so genau und vor allem schnell wie möglich..."
     ]
   },
   {
     "id": "hard",
     "content": [
-      "Ab hier werden die Aufgaben schwerer. 83,3% der Probanden aus bisherigen Studien benötigten durchschnittlich 609 Millisekunden mehr für den Zeitraum, der zwischen der Wahrnehmung des Objektes und der Antwort auf dieses vergeht.",
-      "Bitte konzentrieren Sie sich weiterhin und beantworten die nächsten 20 Bilder so zügig und vor allem genau wie möglich..."
+      "Ab hier werden die Aufgaben schwerer.",
+      "83,3% der Probanden aus bisherigen Studien benötigten durchschnittlich 0,63 Sekunden länger für die Beantwortung der Frage.",
+      "Also bitte konzentrieren Sie sich weiterhin und beantworten die nächsten 20 Bilder so schnell und vor allem genau wie möglich..."
     ]
   }
 ]
