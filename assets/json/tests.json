@@ -8,6 +8,9 @@
       
       "Pfeil Rechts = Objekt passt",
       "Pfeil Links = Objekt passt nicht",
+      
+      "Die durchschnittliche Reaktionszeit liegt ca. Bei 0,61 Sekunden (Konfidenzintervall 95%)",
+      
       "Versuchen Sie bitte die Fragen so schnell und genau wie möglich zu beantworten..."
     ],
     "training": true
