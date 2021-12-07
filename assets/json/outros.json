@@ -3,28 +3,28 @@
     "id": 0,
     "content": [
       "Sie haben das Training erfolgreich abgeschlossen!",
-      "Drücken sie auf \"Weiter\" um mit dem eigentlichem Experiment zu beginnen. "
+      "Drücken sie auf \"Weiter\", um mit dem eigentlichen Experiment zu beginnen."
     ]
   },
   {
     "id": 1,
     "content": [
       "Sie haben den ersten Test erfolgreich abgeschlossen!",
-      "Drücken sie auf \"Weiter\" um mit dem zweiten Test zu beginnen."
+      "Drücken sie auf \"Weiter\", um mit dem zweiten Test zu beginnen."
     ]
   },
   {
     "id": 2,
     "content": [
       "Sie haben den zweiten Test erfolgreich abgeschlossen!",
-      "Drücken sie auf \"Weiter\" um mit dem dritten Test zu beginnen."
+      "Drücken sie auf \"Weiter\", um mit dem dritten Test zu beginnen."
     ]
   },
   {
     "id": 3,
     "content": [
       "Sie haben den letzten Test erfolgreich abgeschlossen!",
-      "Drücken sie auf \"Weiter\" um das Experiment zu beenden."
+      "Drücken sie auf \"Weiter\", um das Experiment zu beenden."
     ]
   }
 ]
