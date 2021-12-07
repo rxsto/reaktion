@@ -1,7 +1,12 @@
 [
   {
     "id": "intro",
-    "content": ["Liebe Proband:innen,", "vielen Dank, dass Sie sich bereit erklärt haben an unserer Studie teilzunehmen. Wir möchten heute Ihre Fähigkeit testen auf einen Stimulus zu reagieren, diesen zu verarbeiten und darauf zu antworten. Dabei ist unser Ziel die Anzahl der diffusen Axonenbeschädigungen in Ihrer Altersgruppe (17-26) zu studieren.", "Wir werden im Folgenden in drei unterschiedlichen Tests die von Ihnen benötigte Zeit für die Bearbeitung eines jeden Tasks messen.", "Bitte lesen Sie aufmerksam die Instruktionen durch.", "Viel Spaß!"],
+    "content": [
+      "Liebe Proband*innen,",
+      "vielen Dank, dass Sie sich bereit erklärt haben an unserer Studie teilzunehmen. Wir möchten nun Ihr räumliches Denkvermögen im System 1 des Gehirns untersuchen.",
+      "Dabei ist unser Ziel ihre Fähigkeit zu testen auf einen Reiz zu reagieren, diesen zu verarbeiten und darauf zu antworten. Wir werden im Folgenden in unterschiedlichen Tests die von Ihnen benötigte Zeit für die Bearbeitung der Aufgaben messen.", 
+      "Bitte lesen Sie sich aufmerksam die Instruktionen durch. Wir wünschen Ihnen viel Spaß mit unseren kleinen Tasks!"    
+    ],
     "comp": "AppIntro"
   },
   {
