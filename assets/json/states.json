@@ -3,9 +3,9 @@
     "id": "intro",
     "content": [
       "Liebe Proband*innen,",
-      "vielen Dank, dass Sie sich bereit erklärt haben an unserer Studie teilzunehmen. Wir möchten nun Ihr räumliches Denkvermögen im System 1 des Gehirns untersuchen.",
-      "Dabei ist unser Ziel ihre Fähigkeit zu testen auf einen Reiz zu reagieren, diesen zu verarbeiten und darauf zu antworten. Wir werden im Folgenden in unterschiedlichen Tests die von Ihnen benötigte Zeit für die Bearbeitung der Aufgaben messen.", 
-      "Bitte lesen Sie sich aufmerksam die Instruktionen durch. Wir wünschen Ihnen viel Spaß mit unseren kleinen Tasks!"    
+      "vielen Dank, dass Sie sich bereit erklärt haben, an unserer Studie teilzunehmen. Wir möchten nun Ihr räumliches Denkvermögen im System 1 des Gehirns untersuchen.",
+      "Dabei ist unser Ziel, Ihre Fähigkeit zu testen auf einen Reiz zu reagieren, sowie diesen zu verarbeiten. Im weiteren Verlauf dieses Experimentes werden wir Ihnen in unterschiedlichen Aufgaben vorlegen und die von Ihnen benötigte Bearbeitungszeit messen.",
+      "Bitte lesen Sie die Instruktionen aufmerksam durch."
     ],
     "comp": "AppIntro"
   },
@@ -17,7 +17,7 @@
     "id": "outro",
     "content": [
       "Vielen Dank für Ihre heutige Teilnahme an diesem Experiment!",
-      "Für Rückfragen stehen Ihnen unsere Versuchsleiter stets zur Verfügung."
+      "Insofern noch Rückfragen bestehen sollten, wenden Sie sich bitte an unsere Versuchsleiter."
     ],
     "comp": "AppOutro"
   }
