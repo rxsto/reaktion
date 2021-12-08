@@ -2,16 +2,15 @@
   {
     "id": "training",
     "content": [
-      "Ihre Aufgabe wird es nun sein abzuschätzen, ob die auf dem Bildschirm gezeigten Objekte in einen handelsüblichen Schuhkarton passen.",
-      "(20cm Breite, 32cm Länge, 10cm Höhe).",
+      "Schätzen Sie bitte ab, ob die auf dem Bildschirm gezeigten Objekte in einen handelsüblichen Schuhkarton mit folgenden Maßeinheiten passen. (20cm Breite, 32cm Länge, 10cm Höhe).",
       "Sie können die jeweiligen Fragen mit den folgenden Pfeiltasten beantworten.",
       
       "Pfeil Rechts = Objekt passt",
-      "Pfeil Links = Objekt passt nicht",
+      "Pfeil Links = Objekt passt nicht", 
       
-      "Die durchschnittliche Reaktionszeit liegt ca. Bei 0,61 Sekunden (Konfidenzintervall 95%)",
+      "Die durchschnittliche Bearbeitungszeit liegt bei ca. 0,61 Sekunden (Konfidenzintervall 95%).",
       
-      "Versuchen Sie bitte die Fragen so schnell und so genau wie möglich zu beantworten..."
+      "Versuchen Sie bitte die Fragen so schnell und so genau wie möglich zu beantworten."
       
     ],
     "training": true
