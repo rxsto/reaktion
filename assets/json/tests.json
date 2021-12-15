@@ -8,9 +8,10 @@
       "Pfeil Rechts = Objekt passt",
       "Pfeil Links = Objekt passt nicht", 
       
-      "Die durchschnittliche Bearbeitungszeit liegt bei ca. 0,61 Sekunden (Konfidenzintervall 95%).",
-      
-      "Versuchen Sie bitte die Fragen so schnell und so genau wie möglich zu beantworten."
+      "Die durchschnittliche Bearbeitungszeit liegt bei ca. 0,61 Sekunden pro Item (~ 12,2 Sekunden pro Test)",
+      "Versuchen Sie bitte die Fragen so schnell und so genau wie möglich zu beantworten.",
+
+      "Klicken Sie auf \"Start\" um mit dem Training zu beginnen."
       
     ],
     "training": true
@@ -24,7 +25,7 @@
   {
     "id": "easy",
     "content": [
-      "Dieser Test wird durchschnittlich am schnellsten bearbeitet.",
+      "Der folgende Test wird durchschnittlich am schnellsten bearbeitet.",
       "Aus bisherigen Studien ergab sich, dass 79,4% der Probanden durchschnittlich nur 0,45 Sekunden pro Item benötigen.",
       "Bitte konzentrieren Sie sich also weiterhin und beantworten die nächsten 20 Bilder so schnell und vor allem genau wie möglich."
     ]
@@ -32,7 +33,7 @@
   {
     "id": "hard",
     "content": [
-      "83,3% der Probanden aus bisherigen Studien weisen in diesem Test eine durchschnittlich höhere Beantwortungszeit von 0,78 Sekunden auf. In Relation zum ersten Test verzeichnen wir eine Steigerung von ca. 28%.",
+      "83,3% der Probanden aus bisherigen Studien weisen im nächsten Test eine durchschnittlich höhere Beantwortungszeit von 0,78 Sekunden auf. In Relation zum ersten Test verzeichnen wir eine Steigerung von ca. 28%.",
       "Bitte bleiben Sie weiterhin konzentriert und beantworten Sie die nächsten 20 Bilder so schnell und vor allem so genau wie möglich."
     ]
   }
