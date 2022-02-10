@@ -32,7 +32,7 @@
     "lqip-loader": "^2.2.1",
     "postcss": "^8.4.4",
     "responsive-loader": "^2.3.0",
-    "sharp": "^0.29.3",
+    "sharp": "^0.30.1",
     "sqip-loader": "^1.0.0",
     "webp-loader": "^0.6.0"
   }
