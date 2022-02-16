@@ -14,7 +14,7 @@
     "@nuxtjs/universal-storage": "^0.5.9",
     "core-js": "^3.19.1",
     "nuxt": "^2.15.8",
-    "xlsx": "^0.17.4"
+    "xlsx": "^0.18.2"
   },
   "devDependencies": {
     "@aceforth/nuxt-optimized-images": "^1.4.0",
