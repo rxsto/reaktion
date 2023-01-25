@@ -13,7 +13,7 @@
   "dependencies": {
     "@nuxtjs/universal-storage": "^0.5.9",
     "core-js": "^3.19.1",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.1.0",
     "xlsx": "^0.17.4"
   },
   "devDependencies": {
